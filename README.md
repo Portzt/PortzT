@@ -25,20 +25,24 @@ where most of it gets tested first.
 - **[bash](https://github.com/Portzt/bash)** —
   A curated collection of shell scripts for administration and automation tasks.
 
-Currently
+## Currently
 
 Building custom Ansible Execution Environments for AAP and expanding my
 Quadlet-managed homelab.
 
-Certifications
-
-[RHCSA — Red Hat Certified System Administrator](https://www.credly.com/badges/6d409cf8-36bb-4d68-8297-95016b93c4b2/public_url)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6d409cf8-36bb-4d68-8297-95016b93c4b2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
-[CompTIA - Security+](https://www.credly.com/badges/d1620fc4-7326-46f1-a618-281d19bbb847/public_url)  
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d1620fc4-7326-46f1-a618-281d19bbb847" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-[AWS Certified - Cloud Practitioner](https://www.credly.com/badges/87c08148-59fd-444d-a7ed-de6e924eb3fe/public_url)  
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="87c08148-59fd-444d-a7ed-de6e924eb3fe" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+## Certifications
+<p>
+  <a href="https://www.credly.com/badges/6d409cf8-36bb-4d68-8297-95016b93c4b2/public_url">
+    <img src="https://images.credly.com/size/110x110/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" alt="RHCSA — Red Hat Certified System Administrator" width="110"/>
+  </a>
+  <a href="https://www.credly.com/badges/d1620fc4-7326-46f1-a618-281d19bbb847/public_url">
+    <img src="https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+ ce" width="110"/>
+  </a>
+  <a href="https://www.credly.com/badges/87c08148-59fd-444d-a7ed-de6e924eb3fe/public_url">
+    <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="110"/>
+  </a>
+</p>
 
 ## Reach me
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:you@example.com)
+[LinkedIn](https://www.linkedin.com/in/tportz777/)
