@@ -18,10 +18,6 @@ where most of it gets tested first.
   An Ansible role for provisioning KVM virtual machines on RHEL 9 with libvirt —
   cloud-image based, idempotent, and inventory-driven.
 
-- **[btle-scout](https://github.com/Portzt/btle-scout)** —
-  A passive Bluetooth Low Energy scanning system: Raspberry Pi Zero 2W collectors feeding
-  a FastAPI + PostgreSQL backend, visualized in Grafana.
-
 - **[ansible](https://github.com/Portzt/ansible)** —
   Playbooks and roles for managing my RHEL-based infrastructure, including execution
   environment builds with ansible-builder v3.
