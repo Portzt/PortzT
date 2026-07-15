@@ -32,9 +32,9 @@ Quadlet-managed homelab.
 
 Certifications
 
-[RHCSA — Red Hat Certified System Administrator](https://www.credly.com/earner/earned/badge/6d409cf8-36bb-4d68-8297-95016b93c4b2)
-[CompTIA - Security+](https://www.credly.com/earner/earned/badge/d1620fc4-7326-46f1-a618-281d19bbb847)
-[AWS Certified - Cloud Practitioner](https://www.credly.com/earner/earned/badge/87c08148-59fd-444d-a7ed-de6e924eb3fe)
+[RHCSA — Red Hat Certified System Administrator](https://www.credly.com/earner/earned/badge/6d409cf8-36bb-4d68-8297-95016b93c4b2)  
+[CompTIA - Security+](https://www.credly.com/earner/earned/badge/d1620fc4-7326-46f1-a618-281d19bbb847)  
+[AWS Certified - Cloud Practitioner](https://www.credly.com/earner/earned/badge/87c08148-59fd-444d-a7ed-de6e924eb3fe)  
 
 ## Reach me
 
