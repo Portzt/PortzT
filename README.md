@@ -32,9 +32,12 @@ Quadlet-managed homelab.
 
 Certifications
 
-[RHCSA — Red Hat Certified System Administrator](https://www.credly.com/earner/earned/badge/6d409cf8-36bb-4d68-8297-95016b93c4b2)  
-[CompTIA - Security+](https://www.credly.com/earner/earned/badge/d1620fc4-7326-46f1-a618-281d19bbb847)  
-[AWS Certified - Cloud Practitioner](https://www.credly.com/earner/earned/badge/87c08148-59fd-444d-a7ed-de6e924eb3fe)  
+[RHCSA — Red Hat Certified System Administrator](https://www.credly.com/badges/6d409cf8-36bb-4d68-8297-95016b93c4b2/public_url)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6d409cf8-36bb-4d68-8297-95016b93c4b2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
+[CompTIA - Security+](https://www.credly.com/badges/d1620fc4-7326-46f1-a618-281d19bbb847/public_url)  
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d1620fc4-7326-46f1-a618-281d19bbb847" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[AWS Certified - Cloud Practitioner](https://www.credly.com/badges/87c08148-59fd-444d-a7ed-de6e924eb3fe/public_url)  
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="87c08148-59fd-444d-a7ed-de6e924eb3fe" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## Reach me
 
