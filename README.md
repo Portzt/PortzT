@@ -42,7 +42,3 @@ Quadlet-managed homelab.
     <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="110"/>
   </a>
 </p>
-
-## Reach me
-
-[LinkedIn](https://www.linkedin.com/in/tportz777/)
